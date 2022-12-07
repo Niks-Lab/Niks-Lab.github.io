@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-bg : black
+#bg:black
 <html lang="en">
  <head>
 	<meta charset="UTF-8">
