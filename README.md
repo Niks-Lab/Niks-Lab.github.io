@@ -11,7 +11,6 @@
     <li> will be </li>
     <li> online with some NOOBIE RF CONTENT </li>
  </ul>
-<a href="/index.html"/> TEST </a>
 </body>
 
 
