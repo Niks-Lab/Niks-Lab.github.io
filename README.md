@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
  </head>
  <body bgcolor="black">
-    <p style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color:#00ff00;"">345</p>
+    <p style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color:#00ff00;">345</p>
     <p style="color: #00ff00;fp"> HIGHLIGHT THE PAGE TO SEE TEXT, holding left click like you would to copy something</p>
  <ul>
     <li>hopefully</li>
