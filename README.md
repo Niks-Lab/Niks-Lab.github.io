@@ -4,5 +4,5 @@
 	<meta charset="UTF-8">
     Niks-Lab
  </head>
- <p>TEST TEST</p>
+ <p style="color: red;">TEST TEST</p>
 </html>
