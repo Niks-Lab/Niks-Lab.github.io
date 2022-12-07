@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html lang="en">
  <head>
@@ -14,6 +13,7 @@
     <li> will be </li>
     <li> online with some NOOBIE RF CONTENT </li>
  </ul>
+<a href="hamradioshop.it">T</a>
 </body>
 
 </html>
