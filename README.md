@@ -1,4 +1,3 @@
-
 <html lang="en">
  <head>
 	<meta charset="UTF-8">
@@ -16,4 +15,3 @@
 <a href="hamradioshop.it">T</a>
 </body>
 
-</html>
